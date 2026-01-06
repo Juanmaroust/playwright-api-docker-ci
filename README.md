@@ -145,6 +145,7 @@ npx playwright test --debug
 - [API Testing Guide](https://playwright.dev/docs/api-testing)
 - [Best Practices](https://playwright.dev/docs/best-practices)
 
-## License
-
-MIT
+## Future Improvements
+- Scheduled runs
+- Automatic reports
+- Basic Performance validations
