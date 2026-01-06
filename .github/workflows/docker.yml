@@ -20,4 +20,4 @@ jobs:
         run: docker run --rm playwright-api-tests
       
       - name: Upload Docker image (optional)
-        run: echo "Docker image built successfully: playwright-api-tests"
+        run: 'echo "Docker image built successfully: playwright-api-tests"'
